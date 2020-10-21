@@ -1,0 +1,35 @@
+myh1 {
+    text-align: center;
+    color: rgb(153, 66, 134);
+    font-family: Times New Roman;
+    font-size: xxx-large;
+}
+
+myh2 {
+    text-align: center;
+    color: rgb(153, 66, 134);
+    font-family: Times New Roman;
+    font-size: xx-large;
+    font-style: italic;
+} 
+
+p {
+    text-align: justify;
+    color: black;
+    font-size:x-large;
+    font-family: Arial;    
+}
+
+.text {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size:large;
+    font-family: 'Trebuchet MS';
+}
+
+.text2 {
+    text-align: justify;
+    color: rgb(190, 124, 0);
+    font-size:x-large;
+    font-family: 'Trebuchet MS';
+}
