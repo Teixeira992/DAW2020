@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pr SYSTEM "pr.dtd">
+<pr>
+    <metadata>
+        <keyname>TPC_2_DAW2020 </keyname>
+        <title>DTD e XML</title>
+        <subtitle>Project Record</subtitle>
+        <begin_data>21/10/2020</begin_data>
+        <end_data>28/10/2020</end_data>
+        <supervisor homepage="http://www4.di.uminho.pt/~jcr/">José Carlos Ramalho</supervisor>
+    </metadata>
+    
+    <workteam>
+        <worker>
+            <id>A84430</id>
+            <name>Bruno Miguel Fernandes Teixeira</name>
+            <email>a84430@alunos.uminho.pt</email>
+            <homepage>https://github.com/Teixeira992</homepage>
+        </worker>
+    </workteam>
+    
+    <abstract>
+        <par>Para a realização do <b>TPC 2</b> no âmbito da <b>UC</b> de <i>Desenvolvimento de Aplicações WEB</i>foi proposto a realização de 2 tarefas.</par>
+        <par>A primeira consiste na elaboração de um <b>DTD</b>, <i>Definition Type Document</i>, relativo a Project Records. Para tal foi disponibilizado
+            o seguinte modelo, <ref url="http://www4.di.uminho.pt/~jcr/PROJS/micei2002/guilherme/Project%20Record.htm"></ref></par>
+        <par>Relativamente à segunda tarefa tem como objetivo escrever a memória descritiva do próprio TPC em <b>XML</b> gerado pelo <b>DTD</b> 
+            anteriormente desenvolvido.</par>
+    </abstract>
+    
+    <deliverables>
+        <deliv link="https://github.com/Teixeira992/DAW2020/blob/main/T2/pr.dtd"></deliv/>
+    </deliverables>
+</pr>
