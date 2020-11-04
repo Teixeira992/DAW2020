@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pr SYSTEM "pr.dtd">
+<pr>
+    <metadata>
+        <keyname>TPC_3_DAW2020 </keyname>
+        <title>Geração de páginas HTML e de Websites com XSLT</title>
+        <subtitle>XML, XSLT, HTML e DTD</subtitle>
+        <begin_data>28/10/2020</begin_data>
+        <end_data>4/11/2020</end_data>
+        <supervisor homepage="http://www4.di.uminho.pt/~jcr/">José Carlos Ramalho</supervisor>
+    </metadata>
+    
+    <workteam>
+        <worker>
+            <id>A84430</id>
+            <name>Bruno Miguel Fernandes Teixeira</name>
+            <email>a84430@alunos.uminho.pt</email>
+            <homepage>https://github.com/Teixeira992</homepage>
+        </worker>
+    </workteam>
+    
+    <abstract>
+        <par>Para a realização do <b>TPC 3</b> no âmbito da <b>UC</b> de <i>Desenvolvimento de Aplicações WEB</i>foi proposto a realização de 2 tarefas.</par>
+        <par>A primeira consiste na elaboração de um <b>XSLT</b>, <i>eXtensible Stylesheet Language for Transformation</i>, de modo a, em conjunto com um ficheiro xml, fosse gerado um website.
+         Para tal foi disponibilizado o seguinte ficheiro, <ref url="http://www4.di.uminho.pt/~jcr/XML/didac/xmldocs/arq.xml"></ref>. Este website consiste numa página principal que contem um indice
+         dos Arqueosítios do Nordeste Português que posteriormente aponta para uma pagina com a informação de cada arqueosítio </par>
+        <par>Relativamente à segunda tarefa tem como objetivo escrever um <b>DTD</b> sobre o ficheiro <b>XML</b> anteriormente referido.</par>
+    </abstract>
+    
+    <deliverables>
+        <deliv link="https://github.com/Teixeira992/DAW2020/blob/main/T2/pr.dtd"></deliv/>
+    </deliverables>
+</pr>
