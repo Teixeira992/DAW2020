@@ -28,6 +28,10 @@
     </abstract>
     
     <deliverables>
-        <deliv link="https://github.com/Teixeira992/DAW2020/blob/main/T2/pr.dtd"></deliv/>
+        <deliv link="https://github.com/Teixeira992/DAW2020/tree/main/T3/PR"></deliv/>
+        <deliv link="https://github.com/Teixeira992/DAW2020/tree/main/T3/site"></deliv/>
+        <deliv link="https://github.com/Teixeira992/DAW2020/blob/main/T3/arq.dtd"></deliv/>
+        <deliv link="https://github.com/Teixeira992/DAW2020/blob/main/T3/arq.xml"></deliv/>
+        <deliv link="https://github.com/Teixeira992/DAW2020/blob/main/T3/arq.xsl"></deliv/>
     </deliverables>
 </pr>
