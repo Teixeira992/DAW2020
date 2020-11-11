@@ -24,9 +24,12 @@
     </abstract>
     <deliverables>
         <link url="https://github.com/Teixeira992/DAW2020/tree/main/T4/PR"></link>
-        <link url="https://github.com/Teixeira992/DAW2020/tree/main/T3/site"></link>
-        <link url="https://github.com/Teixeira992/DAW2020/blob/main/T3/arq.dtd"></link>
-        <link url="https://github.com/Teixeira992/DAW2020/blob/main/T3/arq.xml"></link>
-        <link url="https://github.com/Teixeira992/DAW2020/blob/main/T3/arq.xsl"></link>
+        <link url="https://github.com/Teixeira992/DAW2020/tree/main/T4/arqs"></link>
+        <link url="https://github.com/Teixeira992/DAW2020/blob/main/T4/arq.xml"></link>
+        <link url="https://github.com/Teixeira992/DAW2020/blob/main/T4/arq.xsl"></link>
+        <link url="https://github.com/Teixeira992/DAW2020/blob/main/T4/mymod.js"></link>
+        <link url="https://github.com/Teixeira992/DAW2020/blob/main/T4/server-f.js"></link>
+
+        
     </deliverables>
 </pr>
