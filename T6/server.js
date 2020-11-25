@@ -30,13 +30,13 @@ var serverTarefas = http.createServer(function (req,res) {
                                 })
                                 .catch(function (erro) {
                                     res.writeHead(200, { 'Content-Type': 'text/html;charset=utf-8' })
-                                    res.write("<p>Não foi possível obter a lista de tarefas...")
+                                    res.write("<p>Não foi possível obter a lista de tarefas...</p>")
                                     res.end()
                                 })
                         })
                         .catch(function (erro) {
                             res.writeHead(200, { 'Content-Type': 'text/html;charset=utf-8' })
-                            res.write("<p>Não foi possível obter a lista de tarefas...")
+                            res.write("<p>Não foi possível obter a lista de tarefas...</p>")
                             res.end()
                         })
                 }
@@ -71,13 +71,13 @@ var serverTarefas = http.createServer(function (req,res) {
                                                 })
                                                 .catch(function (erro) {
                                                     res.writeHead(200, { 'Content-Type': 'text/html;charset=utf-8' })
-                                                    res.write("<p>Não foi possível obter a lista de tarefas...")
+                                                    res.write("<p>Não foi possível obter a lista de tarefas...</p>")
                                                     res.end()
                                                 })
                                         })
                                         .catch(function (erro) {
                                             res.writeHead(200, { 'Content-Type': 'text/html;charset=utf-8' })
-                                            res.write("<p>Não foi possível obter a lista de tarefas...")
+                                            res.write("<p>Não foi possível obter a lista de tarefas...</p>")
                                             res.end()
                                         })
                                 })
@@ -132,20 +132,20 @@ var serverTarefas = http.createServer(function (req,res) {
                                                 })
                                                 .catch(function (erro) {
                                                     res.writeHead(200, { 'Content-Type': 'text/html;charset=utf-8' })
-                                                    res.write("<p>Não foi possível obter a lista de tarefas...")
+                                                    res.write("<p>Não foi possível obter a lista de tarefas...</p>")
                                                     res.end()
                                                 })
                                         })
                                         .catch(function (erro) {
                                             res.writeHead(200, { 'Content-Type': 'text/html;charset=utf-8' })
-                                            res.write("<p>Não foi possível obter a lista de tarefas...")
+                                            res.write("<p>Não foi possível obter a lista de tarefas...</p>")
                                             res.end()
                                         })
 
                                 })
                                 .catch(function (erro) {
                                     res.writeHead(200, { 'Content-Type': 'text/html;charset=utf-8' })
-                                    res.write("<p>Não foi possível obter a lista de tarefas...")
+                                    res.write("<p>Não foi possível obter a lista de tarefas...</p>")
                                     res.end()
                                 })
                         }
