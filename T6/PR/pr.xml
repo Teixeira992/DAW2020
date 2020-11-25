@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pr SYSTEM "pr.dtd">
+<pr>
+    <meta>
+        <key>TPC_6_DAW2020</key>
+        <title>Criação de um SPA</title>
+        <bdate>18/11/2020</bdate>
+        <edate>25/11/2010</edate>
+        <supervisor url="http://www4.di.uminho.pt/~jcr/">José Carlos Ramalho</supervisor>
+    </meta>
+    <team>
+        <member id="A84430">
+            <name>Bruno Miguel Fernandes Teixeira</name>
+            <email>a84430@alunos.uminho.pt</email>
+        </member>
+    </team>
+    <abstract>
+        <p>Para a realização do <b>TPC 4</b> no âmbito da <b>UC</b> de <i>Desenvolvimento de Aplicações WEB</i>foi proposto a realização de 2 tarefas.</p>
+        <p>A primeira consiste na elaboração de uma <b>SPA</b>, <i>Single Page Application</i> em <b>NodeJS</b>, acerca de uma tradicional aplicação que gere tarefas do dia a dia.
+        Esta aplicação permite registar uma nova tarefa assim como alterar o seu estado (Resolvido ou Cancelado). 
+        Este servidor, sempre que precisa de informação, faz pedidos a um <i>Json-Server</i> que corre sobre um <i>dataset</i> sobre tarefas.</p> 
+        <p>Relativamente à segunda tarefa tem como objetivo escrever o <b>Project Record</b> sobre o trabalho realizado.</p>
+    </abstract>
+    <deliverables>
+        <link url="https://github.com/Teixeira992/DAW2020/tree/main/T6/PR"></link>
+        <link url="https://github.com/Teixeira992/DAW2020/tree/main/T6/node_modules"></link>
+        <link url="https://github.com/Teixeira992/DAW2020/tree/main/T6/public"></link>
+        <link url="https://github.com/Teixeira992/DAW2020/blob/main/T6/db.json"></link>
+        <link url="https://github.com/Teixeira992/DAW2020/blob/main/T6/package-lock.json"></link>
+        <link url="https://github.com/Teixeira992/DAW2020/blob/main/T6/package.json"></link>
+        <link url="https://github.com/Teixeira992/DAW2020/blob/main/T6/server.js"></link>
+        <link url="https://github.com/Teixeira992/DAW2020/blob/main/T6/static.js"></link>
+        <link url="https://github.com/Teixeira992/DAW2020/blob/main/T6/templates.js"></link>
+    </deliverables>
+</pr>

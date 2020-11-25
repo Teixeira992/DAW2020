@@ -1,0 +1,64 @@
+{
+  "tarefas": [
+    {
+      "id": 1,
+      "datacriacao": "2020-11-20",
+      "datalimite": "2020-12-27",
+      "descricao": "TCP_DAW",
+      "responsavel": "Teixeira",
+      "resolvido": true,
+      "cancelado": false,
+      "tipo": "Uni"
+    },
+    {
+      "id": 2,
+      "datacriacao": "2020-11-22",
+      "datalimite": "2021-11-27",
+      "descricao": "Renovar CC",
+      "responsavel": "Bruno",
+      "resolvido": false,
+      "cancelado": false,
+      "tipo": "Pessoal"
+    },
+    {
+      "descricao": "Comprar PS5",
+      "responsavel": "Bruno",
+      "datalimite": "2021-1-27",
+      "resolvido": false,
+      "cancelado": true,
+      "id": 3,
+      "tipo": "Hobbie",
+      "datacriacao": "2020-11-19"
+    },
+    {
+      "descricao": "TPC_7 DAW",
+      "responsavel": "Teixeira",
+      "tipo": "Uni",
+      "datalimite": "2020-12-02",
+      "datacriacao": "2020-11-22",
+      "resolvido": false,
+      "cancelado": false,
+      "id": 4
+    },
+    {
+      "descricao": "Arranjar grupo SD",
+      "responsavel": "Kaixi26",
+      "tipo": "Uni",
+      "datalimite": "2020-11-27",
+      "datacriacao": "2020-11-22",
+      "resolvido": false,
+      "cancelado": false,
+      "id": 5
+    },
+    {
+      "descricao": "TPC_8 DAW",
+      "responsavel": "Teixeira",
+      "tipo": "Uni",
+      "datalimite": "2020-12-09",
+      "datacriacao": "2020-11-22",
+      "resolvido": false,
+      "cancelado": false,
+      "id": 6
+    }
+  ]
+}
